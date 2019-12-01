@@ -1,0 +1,107 @@
+﻿Term,Database,ID,Input number,Background number,P-Value,Corrected P-Value,Input,Hyperlink
+Pathogenic Escherichia coli infection,KEGG PATHWAY,hsa05130,5,84,3.39E-06,0.000359355,P63104|P27348|Q9BQE3|Q9BUF5|Q9BVA1,http://www.genome.jp/kegg-bin/show_pathway?hsa05130/hsa:84617%09red/hsa:10971%09red/hsa:84790%09red/hsa:347733%09red/hsa:7534%09red
+Cell cycle,KEGG PATHWAY,hsa04110,5,192,0.000154972,0.006403704,P63104|P27348|P31946|P78527|P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa04110/hsa:7529%09red/hsa:7531%09red/hsa:10971%09red/hsa:5591%09red/hsa:7534%09red
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),KEGG PATHWAY,hsa05412,4,105,0.000181237,0.006403704,P15924|P02545|P16615|P14923,http://www.genome.jp/kegg-bin/show_pathway?hsa05412/hsa:3728%09red/hsa:488%09red/hsa:1832%09red/hsa:4000%09red
+Hippo signaling pathway,KEGG PATHWAY,hsa04390,5,221,0.000292734,0.007103189,P63104|P27348|P31946|P63151|P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa04390/hsa:7529%09red/hsa:5520%09red/hsa:10971%09red/hsa:7531%09red/hsa:7534%09red
+mRNA surveillance pathway,KEGG PATHWAY,hsa03015,4,124,0.000335056,0.007103189,Q09161|Q6UN15|P63151|Q96EP5,http://www.genome.jp/kegg-bin/show_pathway?hsa03015/hsa:26528%09red/hsa:5520%09red/hsa:81608%09red/hsa:4686%09red
+Epstein-Barr virus infection,KEGG PATHWAY,hsa05169,5,312,0.001345689,0.019060411,P63104|P27348|P54652|P31946|P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa05169/hsa:7529%09red/hsa:7531%09red/hsa:10971%09red/hsa:3306%09red/hsa:7534%09red
+Ribosome,KEGG PATHWAY,hsa03010,4,182,0.001356419,0.019060411,P60866|P62979|P46783|P62081,http://www.genome.jp/kegg-bin/show_pathway?hsa03010/hsa:6224%09red/hsa:6201%09red/hsa:6233%09red/hsa:6204%09red
+Oocyte meiosis,KEGG PATHWAY,hsa04114,4,185,0.001438522,0.019060411,P63104|P27348|P31946|P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa04114/hsa:7529%09red/hsa:7531%09red/hsa:10971%09red/hsa:7534%09red
+Protein processing in endoplasmic reticulum,KEGG PATHWAY,hsa04141,4,260,0.004787757,0.053105647,P31689|P54652|P04843|P30101,http://www.genome.jp/kegg-bin/show_pathway?hsa04141/hsa:3306%09red/hsa:2923%09red/hsa:6184%09red/hsa:3301%09red
+Gap junction,KEGG PATHWAY,hsa04540,3,131,0.005009967,0.053105647,Q9BVA1|Q9BQE3|Q9BUF5,http://www.genome.jp/kegg-bin/show_pathway?hsa04540/hsa:84617%09red/hsa:84790%09red/hsa:347733%09red
+Glyoxylate and dicarboxylate metabolism,KEGG PATHWAY,hsa00630,2,44,0.006265835,0.059339454,P04040|P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00630/hsa:38%09red/hsa:847%09red
+Antigen processing and presentation,KEGG PATHWAY,hsa04612,3,146,0.006717674,0.059339454,P54652|P30101|P34932,http://www.genome.jp/kegg-bin/show_pathway?hsa04612/hsa:2923%09red/hsa:3306%09red/hsa:3308%09red
+Tryptophan metabolism,KEGG PATHWAY,hsa00380,2,56,0.00981105,0.075061537,P04040|P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00380/hsa:38%09red/hsa:847%09red
+Viral carcinogenesis,KEGG PATHWAY,hsa05203,4,328,0.010569633,0.075061537,P63104|P27348|P31946|P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa05203/hsa:7529%09red/hsa:7531%09red/hsa:10971%09red/hsa:7534%09red
+PI3K-Akt signaling pathway,KEGG PATHWAY,hsa04151,5,512,0.010621916,0.075061537,P63104|P27348|P31946|P63151|P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa04151/hsa:7529%09red/hsa:5520%09red/hsa:10971%09red/hsa:7531%09red/hsa:7534%09red
+Carbon metabolism,KEGG PATHWAY,hsa01200,3,185,0.012625267,0.083642391,P06744|P04040|P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa01200/hsa:38%09red/hsa:847%09red/hsa:2821%09red
+Hepatitis B,KEGG PATHWAY,hsa05161,3,214,0.018463574,0.115125814,P63104|P27348|P31946,http://www.genome.jp/kegg-bin/show_pathway?hsa05161/hsa:7529%09red/hsa:10971%09red/hsa:7534%09red
+Adrenergic signaling in cardiomyocytes,KEGG PATHWAY,hsa04261,3,230,0.022227513,0.125825651,P05023|P16615|P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa04261/hsa:476%09red/hsa:5520%09red/hsa:488%09red
+Legionellosis,KEGG PATHWAY,hsa05134,2,88,0.022553654,0.125825651,P54652|P10809,http://www.genome.jp/kegg-bin/show_pathway?hsa05134/hsa:3306%09red/hsa:3329%09red
+Phagosome,KEGG PATHWAY,hsa04145,3,237,0.023996433,0.127181095,Q9BVA1|Q9BQE3|Q9BUF5,http://www.genome.jp/kegg-bin/show_pathway?hsa04145/hsa:84617%09red/hsa:84790%09red/hsa:347733%09red
+cGMP-PKG signaling pathway,KEGG PATHWAY,hsa04022,3,261,0.030625606,0.152228236,P05023|P05141|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa04022/hsa:476%09red/hsa:292%09red/hsa:488%09red
+Cardiac muscle contraction,KEGG PATHWAY,hsa04260,2,106,0.03159454,0.152228236,P05023|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa04260/hsa:476%09red/hsa:488%09red
+Longevity regulating pathway - multiple species,KEGG PATHWAY,hsa04213,2,113,0.035436367,0.163315431,P54652|P04040,http://www.genome.jp/kegg-bin/show_pathway?hsa04213/hsa:847%09red/hsa:3306%09red
+Peroxisome,KEGG PATHWAY,hsa04146,2,116,0.037135697,0.164015994,P51659|P04040,http://www.genome.jp/kegg-bin/show_pathway?hsa04146/hsa:847%09red/hsa:3295%09red
+Hypertrophic cardiomyopathy (HCM),KEGG PATHWAY,hsa05410,2,123,0.04121991,0.174630174,P02545|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa05410/hsa:488%09red/hsa:4000%09red
+Synthesis and degradation of ketone bodies,KEGG PATHWAY,hsa00072,1,16,0.042833816,0.174630174,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00072/hsa:38%09red
+Dilated cardiomyopathy,KEGG PATHWAY,hsa05414,2,134,0.04796072,0.188290236,P02545|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa05414/hsa:488%09red/hsa:4000%09red
+Non-homologous end-joining,KEGG PATHWAY,hsa03450,1,20,0.052646693,0.199305339,P78527,http://www.genome.jp/kegg-bin/show_pathway?hsa03450/hsa:5591%09red
+Primary bile acid biosynthesis,KEGG PATHWAY,hsa00120,1,22,0.057515902,0.204036543,P51659,http://www.genome.jp/kegg-bin/show_pathway?hsa00120/hsa:3295%09red
+Pancreatic secretion,KEGG PATHWAY,hsa04972,2,149,0.057746191,0.204036543,P05023|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa04972/hsa:476%09red/hsa:488%09red
+Amoebiasis,KEGG PATHWAY,hsa05146,2,158,0.063922332,0.218573134,P05089|P29508,http://www.genome.jp/kegg-bin/show_pathway?hsa05146/hsa:383%09red/hsa:6317%09red
+One carbon pool by folate,KEGG PATHWAY,hsa00670,1,30,0.076747411,0.246680713,P22102,http://www.genome.jp/kegg-bin/show_pathway?hsa00670/hsa:2618%09red
+Thyroid hormone signaling pathway,KEGG PATHWAY,hsa04919,2,178,0.078389555,0.246680713,P05023|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa04919/hsa:476%09red/hsa:488%09red
+Terpenoid backbone biosynthesis,KEGG PATHWAY,hsa00900,1,31,0.079124002,0.246680713,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00900/hsa:38%09red
+Mismatch repair,KEGG PATHWAY,hsa03430,1,33,0.083859121,0.246918522,P35251,http://www.genome.jp/kegg-bin/show_pathway?hsa03430/hsa:5981%09red
+Proximal tubule bicarbonate reclamation,KEGG PATHWAY,hsa04964,1,33,0.083859121,0.246918522,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04964/hsa:476%09red
+Spliceosome,KEGG PATHWAY,hsa03040,2,190,0.087517063,0.247064388,Q09161|P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa03040/hsa:3306%09red/hsa:4686%09red
+Arginine biosynthesis,KEGG PATHWAY,hsa00220,1,35,0.088570252,0.247064388,P05089,http://www.genome.jp/kegg-bin/show_pathway?hsa00220/hsa:383%09red
+Pentose phosphate pathway,KEGG PATHWAY,hsa00030,1,39,0.097921035,0.266144353,P06744,http://www.genome.jp/kegg-bin/show_pathway?hsa00030/hsa:2821%09red
+Apoptosis,KEGG PATHWAY,hsa04210,2,208,0.101765473,0.269678504,Q9BQE3|P02545,http://www.genome.jp/kegg-bin/show_pathway?hsa04210/hsa:84790%09red/hsa:4000%09red
+Butanoate metabolism,KEGG PATHWAY,hsa00650,1,43,0.107177302,0.277092536,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00650/hsa:38%09red
+RNA transport,KEGG PATHWAY,hsa03013,2,220,0.111598182,0.281652553,P51116|Q09161,http://www.genome.jp/kegg-bin/show_pathway?hsa03013/hsa:9513%09red/hsa:4686%09red
+Propanoate metabolism,KEGG PATHWAY,hsa00640,1,52,0.127663184,0.314704592,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00640/hsa:38%09red
+DNA replication,KEGG PATHWAY,hsa03030,1,54,0.132152332,0.318366982,P35251,http://www.genome.jp/kegg-bin/show_pathway?hsa03030/hsa:5981%09red
+Aminoacyl-tRNA biosynthesis,KEGG PATHWAY,hsa00970,1,59,0.143275883,0.325147461,Q15046,http://www.genome.jp/kegg-bin/show_pathway?hsa00970/hsa:3735%09red
+Nucleotide excision repair,KEGG PATHWAY,hsa03420,1,60,0.14548368,0.325147461,P35251,http://www.genome.jp/kegg-bin/show_pathway?hsa03420/hsa:5981%09red
+Pyruvate metabolism,KEGG PATHWAY,hsa00620,1,60,0.14548368,0.325147461,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00620/hsa:38%09red
+Aldosterone-regulated sodium reabsorption,KEGG PATHWAY,hsa04960,1,62,0.149882474,0.325147461,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04960/hsa:476%09red
+N-Glycan biosynthesis,KEGG PATHWAY,hsa00510,1,64,0.15425896,0.325147461,P04843,http://www.genome.jp/kegg-bin/show_pathway?hsa00510/hsa:6184%09red
+Endocrine and other factor-regulated calcium reabsorption,KEGG PATHWAY,hsa04961,1,65,0.156438873,0.325147461,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04961/hsa:476%09red
+Lysine degradation,KEGG PATHWAY,hsa00310,1,65,0.156438873,0.325147461,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00310/hsa:38%09red
+Calcium signaling pathway,KEGG PATHWAY,hsa04020,2,276,0.16027747,0.325193088,P05141|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa04020/hsa:292%09red/hsa:488%09red
+Carbohydrate digestion and absorption,KEGG PATHWAY,hsa04973,1,68,0.162945455,0.325193088,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04973/hsa:476%09red
+Fatty acid degradation,KEGG PATHWAY,hsa00071,1,72,0.171544051,0.325193088,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00071/hsa:38%09red
+Amino sugar and nucleotide sugar metabolism,KEGG PATHWAY,hsa00520,1,72,0.171544051,0.325193088,P06744,http://www.genome.jp/kegg-bin/show_pathway?hsa00520/hsa:2821%09red
+Mineral absorption,KEGG PATHWAY,hsa04978,1,75,0.177935841,0.325193088,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04978/hsa:476%09red
+Arginine and proline metabolism,KEGG PATHWAY,hsa00330,1,75,0.177935841,0.325193088,P05089,http://www.genome.jp/kegg-bin/show_pathway?hsa00330/hsa:383%09red
+"Valine, leucine and isoleucine degradation",KEGG PATHWAY,hsa00280,1,75,0.177935841,0.325193088,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa00280/hsa:38%09red
+Starch and sucrose metabolism,KEGG PATHWAY,hsa00500,1,78,0.184279046,0.325559649,P06744,http://www.genome.jp/kegg-bin/show_pathway?hsa00500/hsa:2821%09red
+Fatty acid metabolism,KEGG PATHWAY,hsa01212,1,78,0.184279046,0.325559649,P24752,http://www.genome.jp/kegg-bin/show_pathway?hsa01212/hsa:38%09red
+Type I diabetes mellitus,KEGG PATHWAY,hsa04940,1,81,0.190574032,0.331161432,P10809,http://www.genome.jp/kegg-bin/show_pathway?hsa04940/hsa:3329%09red
+Amyotrophic lateral sclerosis (ALS),KEGG PATHWAY,hsa05014,1,83,0.194744078,0.332949552,P04040,http://www.genome.jp/kegg-bin/show_pathway?hsa05014/hsa:847%09red
+Staphylococcus aureus infection,KEGG PATHWAY,hsa05150,1,85,0.198892959,0.334432984,Q02413,http://www.genome.jp/kegg-bin/show_pathway?hsa05150/hsa:1828%09red
+cAMP signaling pathway,KEGG PATHWAY,hsa04024,2,323,0.203595232,0.334432984,P05023|P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa04024/hsa:476%09red/hsa:488%09red
+Acute myeloid leukemia,KEGG PATHWAY,hsa05221,1,88,0.20507683,0.334432984,P14923,http://www.genome.jp/kegg-bin/show_pathway?hsa05221/hsa:3728%09red
+Ribosome biogenesis in eukaryotes,KEGG PATHWAY,hsa03008,1,94,0.217303841,0.349003139,Q9Y2X3,http://www.genome.jp/kegg-bin/show_pathway?hsa03008/hsa:51602%09red
+RNA degradation,KEGG PATHWAY,hsa03018,1,102,0.233318752,0.36913116,P10809,http://www.genome.jp/kegg-bin/show_pathway?hsa03018/hsa:3329%09red
+Glycolysis / Gluconeogenesis,KEGG PATHWAY,hsa00010,1,104,0.237271775,0.369864826,P06744,http://www.genome.jp/kegg-bin/show_pathway?hsa00010/hsa:2821%09red
+Bile secretion,KEGG PATHWAY,hsa04976,1,112,0.252884077,0.385860207,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04976/hsa:476%09red
+Thyroid hormone synthesis,KEGG PATHWAY,hsa04918,1,113,0.254813344,0.385860207,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04918/hsa:476%09red
+Pertussis,KEGG PATHWAY,hsa05133,1,117,0.262481459,0.386431036,P23528,http://www.genome.jp/kegg-bin/show_pathway?hsa05133/hsa:1072%09red
+Gastric acid secretion,KEGG PATHWAY,hsa04971,1,117,0.262481459,0.386431036,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04971/hsa:476%09red
+Biosynthesis of amino acids,KEGG PATHWAY,hsa01230,1,122,0.27195737,0.392254588,P05089,http://www.genome.jp/kegg-bin/show_pathway?hsa01230/hsa:383%09red
+Protein digestion and absorption,KEGG PATHWAY,hsa04974,1,123,0.273838109,0.392254588,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04974/hsa:476%09red
+Insulin secretion,KEGG PATHWAY,hsa04911,1,127,0.281313325,0.397589499,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04911/hsa:476%09red
+Salivary secretion,KEGG PATHWAY,hsa04970,1,136,0.297856518,0.415431459,P05023,http://www.genome.jp/kegg-bin/show_pathway?hsa04970/hsa:476%09red
+Fc gamma R-mediated phagocytosis,KEGG PATHWAY,hsa04666,1,144,0.312246294,0.429845547,P23528,http://www.genome.jp/kegg-bin/show_pathway?hsa04666/hsa:1072%09red
+Longevity regulating pathway,KEGG PATHWAY,hsa04211,1,150,0.322847606,0.438741619,P04040,http://www.genome.jp/kegg-bin/show_pathway?hsa04211/hsa:847%09red
+Metabolic pathways,KEGG PATHWAY,hsa01100,6,1832,0.334084136,0.448264791,P05089|P51659|P22102|P06744|P24752|P04843,http://www.genome.jp/kegg-bin/show_pathway?hsa01100/hsa:6184%09red/hsa:38%09red/hsa:2618%09red/hsa:383%09red/hsa:2821%09red/hsa:3295%09red
+Chagas disease (American trypanosomiasis),KEGG PATHWAY,hsa05142,1,170,0.357035923,0.467232195,P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa05142/hsa:5520%09red
+Estrogen signaling pathway,KEGG PATHWAY,hsa04915,1,170,0.357035923,0.467232195,P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa04915/hsa:3306%09red
+Sphingolipid signaling pathway,KEGG PATHWAY,hsa04071,1,184,0.379950223,0.486172832,P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa04071/hsa:5520%09red
+AMPK signaling pathway,KEGG PATHWAY,hsa04152,1,189,0.387937376,0.486172832,P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa04152/hsa:5520%09red
+Hepatitis C,KEGG PATHWAY,hsa05160,1,193,0.394254051,0.486172832,P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa05160/hsa:5520%09red
+Toxoplasmosis,KEGG PATHWAY,hsa05145,1,195,0.397388263,0.486172832,P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa05145/hsa:3306%09red
+Tight junction,KEGG PATHWAY,hsa04530,1,197,0.400506499,0.486172832,P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa04530/hsa:5520%09red
+Measles,KEGG PATHWAY,hsa05162,1,198,0.402059651,0.486172832,P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa05162/hsa:3306%09red
+Neurotrophin signaling pathway,KEGG PATHWAY,hsa04722,1,200,0.405154073,0.486172832,P62258,http://www.genome.jp/kegg-bin/show_pathway?hsa04722/hsa:7531%09red
+Systemic lupus erythematosus,KEGG PATHWAY,hsa05322,1,207,0.415860832,0.486172832,P0C0S8,http://www.genome.jp/kegg-bin/show_pathway?hsa05322/hsa:8336%09red
+Dopaminergic synapse,KEGG PATHWAY,hsa04728,1,207,0.415860832,0.486172832,P63151,http://www.genome.jp/kegg-bin/show_pathway?hsa04728/hsa:5520%09red
+FoxO signaling pathway,KEGG PATHWAY,hsa04068,1,208,0.417374789,0.486172832,P04040,http://www.genome.jp/kegg-bin/show_pathway?hsa04068/hsa:847%09red
+Parkinson's disease,KEGG PATHWAY,hsa05012,1,215,0.427864805,0.492974667,P05141,http://www.genome.jp/kegg-bin/show_pathway?hsa05012/hsa:292%09red
+Purine metabolism,KEGG PATHWAY,hsa00230,1,250,0.477587581,0.542412966,P22102,http://www.genome.jp/kegg-bin/show_pathway?hsa00230/hsa:2618%09red
+Alzheimer's disease,KEGG PATHWAY,hsa05010,1,257,0.487008671,0.542412966,P16615,http://www.genome.jp/kegg-bin/show_pathway?hsa05010/hsa:488%09red
+Influenza A,KEGG PATHWAY,hsa05164,1,259,0.489669533,0.542412966,P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa05164/hsa:3306%09red
+Transcriptional misregulation in cancer,KEGG PATHWAY,hsa05202,1,261,0.492316799,0.542412966,P14923,http://www.genome.jp/kegg-bin/show_pathway?hsa05202/hsa:3728%09red
+Axon guidance,KEGG PATHWAY,hsa04360,1,268,0.501476139,0.542412966,P23528,http://www.genome.jp/kegg-bin/show_pathway?hsa04360/hsa:1072%09red
+Tuberculosis,KEGG PATHWAY,hsa05152,1,268,0.501476139,0.542412966,P10809,http://www.genome.jp/kegg-bin/show_pathway?hsa05152/hsa:3329%09red
+Herpes simplex infection,KEGG PATHWAY,hsa05168,1,273,0.507918668,0.543702881,Q96SB4,http://www.genome.jp/kegg-bin/show_pathway?hsa05168/hsa:6732%09red
+Huntington's disease,KEGG PATHWAY,hsa05016,1,278,0.514279166,0.543702881,P05141,http://www.genome.jp/kegg-bin/show_pathway?hsa05016/hsa:292%09red
+Alcoholism,KEGG PATHWAY,hsa05034,1,281,0.518056519,0.543702881,P0C0S8,http://www.genome.jp/kegg-bin/show_pathway?hsa05034/hsa:8336%09red
+Regulation of actin cytoskeleton,KEGG PATHWAY,hsa04810,1,327,0.572479397,0.59492957,P23528,http://www.genome.jp/kegg-bin/show_pathway?hsa04810/hsa:1072%09red
+MAPK signaling pathway,KEGG PATHWAY,hsa04010,1,375,0.622813613,0.640953815,P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa04010/hsa:3306%09red
+Endocytosis,KEGG PATHWAY,hsa04144,1,394,0.641082911,0.65189387,P54652,http://www.genome.jp/kegg-bin/show_pathway?hsa04144/hsa:3306%09red
+HTLV-I infection,KEGG PATHWAY,hsa05166,1,399,0.645743928,0.65189387,P05141,http://www.genome.jp/kegg-bin/show_pathway?hsa05166/hsa:292%09red
+Pathways in cancer,KEGG PATHWAY,hsa05200,1,607,0.794801465,0.794801465,P14923,http://www.genome.jp/kegg-bin/show_pathway?hsa05200/hsa:3728%09red
