@@ -1,0 +1,7 @@
+No,Go,gene number,percent 1,percent2 (exclude unclassified)
+1,binding (GO:0005488),16,39.00%,47.10%
+2,structural molecule activity (GO:0005198),7,17.10%,20.60%
+3,catalytic activity (GO:0003824),8,19.50%,23.50%
+4,translation regulator activity (GO:0045182),1,2.40%,2.90%
+5,transporter activity (GO:0005215),2,4.90%,5.90%
+6,unclassified,8,17.10%,0%
