@@ -168,12 +168,12 @@ writecell(potint_FlagnoEV71,'potint_FlagnoEV71.txt');
 %step4: visualize the data
 subplot(1,2,1);
 plot(cell2mat(FlagEV71(:,4)),cell2mat(FlagEV71(:,3)),'.','MarkerEdgeColor',...
-[0 0.4470 0.7410],'MarkerSize',10);
+[0 0.4470 0.7410],'MarkerSize',18);
 hold on
 plot(cell2mat(potint_FlagEV71(:,4)),cell2mat(potint_FlagEV71(:,3)),'.','MarkerEdgeColor',...
-[0.4660 0.6740 0.1880],'MarkerSize',10);
+[0.4660 0.6740 0.1880],'MarkerSize',18);
 plot(cell2mat(potint_FlagEV71(7,4)),cell2mat(potint_FlagEV71(7,3)),'.','MarkerEdgeColor',...
-[0.8500 0.3250 0.0980],'MarkerSize',10);
+[0.8500 0.3250 0.0980],'MarkerSize',18);
 hold on
 plot([0 90],[0 180],'k-');
 xlabel('Spectra Number for vector-EV71');
@@ -183,12 +183,12 @@ legend('Background proteins','Potential interacted proteins','Bait proteins');
 
 subplot(1,2,2);
 plot(cell2mat(FlagnoEV71(:,4)),cell2mat(FlagnoEV71(:,3)),'.','MarkerEdgeColor',...
-[0 0.4470 0.7410],'MarkerSize',10);
+[0 0.4470 0.7410],'MarkerSize',18);
 hold on
 plot(cell2mat(potint_FlagnoEV71(:,4)),cell2mat(potint_FlagnoEV71(:,3)),'.','MarkerEdgeColor',...
-[0.4660 0.6740 0.1880],'MarkerSize',10);
+[0.4660 0.6740 0.1880],'MarkerSize',18);
 plot(cell2mat(potint_FlagnoEV71(4,4)),cell2mat(potint_FlagnoEV71(4,3)),'.','MarkerEdgeColor',...
-[0.8500 0.3250 0.0980],'MarkerSize',10);
+[0.8500 0.3250 0.0980],'MarkerSize',18);
 plot([0 125],[0 250],'k-');
 xlabel('Spectra Number for vector-noEV71');
 ylabel('Spectra Number for 3DFlag-noEV71');
@@ -207,39 +207,41 @@ fodchg2(I)=[];
 
 subplot(1,2,1);
 hold on;
+plot([0 length(FlagEV71)],[2 2],'k-','LineWidth',1);
 m=length(fodchg1);
 for i=1:m
     if fodchg1(i)>=2
-       plot(i,fodchg1(i),'r.','MarkerSize',15,'MarkerEdgeColor',...
+       a(1)=plot(i,fodchg1(i),'r.','MarkerSize',16,'MarkerEdgeColor',...
        [0.8500 0.3250 0.0980]);
     else
-       plot(i,fodchg1(i),'b.','MarkerSize',8,'MarkerEdgeColor',...
+       a(2)=plot(i,fodchg1(i),'b.','MarkerSize',8,'MarkerEdgeColor',...
        [0.3010, 0.7450, 0.9330]);
     end
 end
 xlim([0,length(FlagEV71)]);
+legend(a,'interacted protein candidates','background proteins');
 ylabel('flod change');
-title('3DFlag-EV71')
-plot([0 m],[2 2],'k-','LineWidth',1);
+title('3DFlag-EV71');
 hold off
 
 
 subplot(1,2,2);
 hold on;
+plot([0 length(FlagnoEV71)],[2 2],'k-','LineWidth',1);
 m=length(fodchg2);
 for i=1:m
     if fodchg2(i)>=2
-       plot(i,fodchg2(i),'r.','MarkerSize',15,'MarkerEdgeColor',...
+       b(1)=plot(i,fodchg2(i),'r.','MarkerSize',16,'MarkerEdgeColor',...
        [0.8500 0.3250 0.0980]);
     else
-       plot(i,fodchg2(i),'b.','MarkerSize',8,'MarkerEdgeColor',...
+       b(2)=plot(i,fodchg2(i),'b.','MarkerSize',8,'MarkerEdgeColor',...
        [0.3010, 0.7450, 0.9330]);
     end
 end
 xlim([0,length(FlagnoEV71)]);
+legend(b,'interacted protein candidates','background proteins');
 ylabel('flod change');
 title('3DFlag-noEV71')
-plot([0 m],[2 2],'k-','LineWidth',1);
 hold off
 
 
